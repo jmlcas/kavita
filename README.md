@@ -1,6 +1,3 @@
-# kavita
-Kavita - Books - Docker compose
+# Kavita
 
-Ver en "localhost:8200"
-
-
+Ver en "http://localhost:8200"
