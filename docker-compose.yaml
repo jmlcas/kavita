@@ -1,5 +1,3 @@
-version: '3.3'
-
 services:
 
     kavita:
@@ -15,6 +13,5 @@ services:
             - TZ=Europe/Madrid            
         ports:
             - "8200:5000"
-        restart: unless-stopped
+        restart: unless-stopped     
 
-        
